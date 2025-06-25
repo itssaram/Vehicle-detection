@@ -1,0 +1,6 @@
+{
+  "video_path": "F:/python/karamouzi/saving_frames2/video/downtown.mp4",
+  "save_path": "F:/python/karamouzi/saving_frames2/data",
+  "max_saved_objects": 50,
+  "min_confidence": 0.30
+}
